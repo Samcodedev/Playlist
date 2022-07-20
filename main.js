@@ -124,8 +124,8 @@ saveLink.addEventListener("click", function(){
     saveInput.value=""
     localStorage.setItem("playlist", JSON.stringify(allaudio))
 
-    let y = 1;
-    x +=y
+//     let y = 1;
+//     x +=y
 })
 
 
